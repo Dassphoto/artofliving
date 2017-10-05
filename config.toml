@@ -1,5 +1,5 @@
 title = "The River Of Tao"
-baseUrl = "http://localhost"
+baseUrl = "https://dassphoto.github.io/theriveroftao/"
 theme = "dimension"
 publishDir = "docs"
 languageCode = "en-us"
