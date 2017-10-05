@@ -1,6 +1,7 @@
 title = "The River Of Tao"
 baseUrl = "http://localhost"
 theme = "dimension"
+publishDir = "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
